@@ -1,0 +1,2 @@
+ An error has occurred
+Error occurred during deployment: Exception while loading the app : java.lang.IllegalStateException: ContainerBase.addChild: start: org.apache.catalina.LifecycleException: org.apache.catalina.LifecycleException: java.lang.NoClassDefFoundError: org/apache/tomcat/util/res/StringManager. Please see server.log for more details. 
